@@ -1,0 +1,4 @@
+name: MineReplacer
+version: '${project.version}'
+main: replacemine.minereplacer.MineReplacer
+api-version: 1.19
